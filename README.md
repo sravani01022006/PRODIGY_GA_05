@@ -14,8 +14,8 @@ Neural Style Transfer uses a pre-trained deep learning model (VGG19) to:
 | File               | Description                           |
 |--------------------|---------------------------------------|
 | `neural_style_transfer2.py` | Python script for style transfer |
-| `content2.jpg`     | New content image                     |
-| `style2.jpg`       | New painting-style image              |
+| `content2.jpg`     | content image                     |
+| `style2.jpg`       | painting-style image              |
 | `styled_output2.png` | Final output image (downloadable)   |
 | `README.md`        | You're reading it right now!          |
 
